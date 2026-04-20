@@ -1,5 +1,5 @@
 "$schema" = "./node_modules/wrangler/config-schema.json"
-name = "bc-bakes-tally-static-react-site"
+name = "bcbakes"
 compatibility_date = "2026-04-20"
 
 [assets]
